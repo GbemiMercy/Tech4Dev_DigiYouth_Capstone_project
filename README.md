@@ -1,6 +1,10 @@
 # Tech4Dev_DigiYouth_Capstone_project
 
 
+view the interactive dashboard
+
+https://public.tableau.com/app/profile/gbemisola.ojediran/viz/Group1capstoneproject/Dasboard2
+
 About the project
 
 
